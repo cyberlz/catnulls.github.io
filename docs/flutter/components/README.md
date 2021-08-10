@@ -1,15 +1,10 @@
 ---
 lang: zh-CN
-title: 站点介绍
-description: 站点介绍
+title: Flutter组件
+description: Flutter组件知识点
 ---
 
-# 站点介绍
-
-```javascript
-console.log('Hello World!');
-
-```
+# Flutter组件
 
 <!-- 相对路径 -->
 [首页](../README.md)  

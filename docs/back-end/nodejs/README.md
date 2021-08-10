@@ -1,15 +1,10 @@
 ---
 lang: zh-CN
-title: 站点介绍
-description: 站点介绍
+title: Nodejs
+description: Nodejs知识点
 ---
 
-# 站点介绍
-
-```javascript
-console.log('Hello World!');
-
-```
+# Nodejs
 
 <!-- 相对路径 -->
 [首页](../README.md)  
